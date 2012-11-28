@@ -8,7 +8,6 @@ public class SesFinder {
     private final List<?> listTwo;
 
     private PathElement[] v;
-    private List<Integer> w;
     private int listTwoSize;
     private int listOneSize;
     private int maxSesLength;
